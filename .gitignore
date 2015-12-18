@@ -30,4 +30,8 @@ ipch/
 # Executables
 *.exe
 *.out
+<<<<<<< HEAD
 *.app
+=======
+*.app
+>>>>>>> 23b4aa3f6dd946e0c20bfd2eb8cda0b3b09a2428
